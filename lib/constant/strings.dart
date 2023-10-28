@@ -1,0 +1,16 @@
+List<String> txtStrings = [
+  "",
+  "To match you with roles that fit your needs, we need to learn more about what you are looking for...",
+  "",
+  "We ask this we can filer out roles that don't fit how you want to work",
+  "You won't see roles paying less than € 18.00/ hour...",
+  "We ask this so we can filter out roles that are too far from you",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+];
